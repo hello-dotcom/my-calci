@@ -1,0 +1,18 @@
+.my-calci-box
+{
+  background-color: aqua;
+  height:500px;
+  width: 500px;
+  align-items: center;
+  border-radius: 10px;
+  border-color: brown;
+  border-width: 5px;
+  box-shadow: coral;
+  
+}
+.answer-box
+{
+  background-color: white;
+  height: auto;
+  width: 100%;
+}
